@@ -1,6 +1,6 @@
 import streamlit as st
 
-st.subheader("Soonjun Kwon (21900045")
+st.subheader("Soonjun Kwon (21900045)")
 
 st.title("Order")
 
